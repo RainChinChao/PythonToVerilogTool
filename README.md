@@ -5,6 +5,10 @@ Python Version: 3.10
 Numpy Version: 1.23.5
 
 You should use the function provided on the Function side of the instruction.
+If you want to code c = a + b
+then in the Python file you need to code as:
+Addition_V("c", "a", "b")
+
 Demos and a blank file are provided for reference.
 
 
